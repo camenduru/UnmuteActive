@@ -46,7 +46,7 @@ namespace UnmuteActive
 
             trayIcon = new NotifyIcon()
             {
-                Text = "Unmute Active v0.1 (dev:camenduru)",
+                Text = "Unmute Active v0.2 (dev:camenduru)",
                 Icon = System.Drawing.Icon.ExtractAssociatedIcon(Application.ExecutablePath), // trayIcon is your NotifyIcon
             Visible = true
             };
